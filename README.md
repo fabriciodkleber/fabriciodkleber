@@ -1,4 +1,4 @@
 - 👋 Hello, I’m @fabriciodkleber, Neurologist and University professor at UCS
-- 👀 I’m the Co-founder of Lipix - Life in Pixels and we are developing VR and AR content for the healthcare in order to enable better learning and training
+- 👀 I’m the Co-founder of Lipix - Life in Pixels and we are developing VR and AR content for the healthcare industry in order to enable better learning and training
 - 🌱 I’m currently studying C# and Unity Development
 - 📫 If you need to reach me: fabriciokleber@lipix.com.br
